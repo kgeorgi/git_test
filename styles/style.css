@@ -1,0 +1,16 @@
+html {
+  font-size: 15px;
+  font-family: "Nixie One", cursive;
+  background-color: #3F7FBF
+}
+p, li, h1 {
+  color: white;
+}
+img[src] {
+  border: 5px solid white;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
